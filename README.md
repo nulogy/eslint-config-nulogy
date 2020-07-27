@@ -28,7 +28,7 @@ module.exports = {
 }
 ```
 
-You may also want to add a prettier config, especially to filter out `__generated__` files from Apollo Codegen.
+You may also want to add a `.prettierignore` file, especially to filter out `__generated__` files from Apollo Codegen.
 
 ## Changelog
 
