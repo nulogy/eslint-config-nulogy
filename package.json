@@ -1,6 +1,6 @@
 {
   "name": "@nulogy/eslint-config-nulogy",
-  "version": "0.0.1-alpha.1",
+  "version": "0.0.1-alpha.2",
   "description": "A shareable config for Nulogy frontend apps",
   "repository": "https://github.com/nulogy/eslint-config-nulogy.git",
   "main": "index.js",
