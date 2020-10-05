@@ -1,6 +1,6 @@
 {
   "name": "@nulogy/eslint-config-nulogy",
-  "version": "0.0.1-alpha.2",
+  "version": "0.0.1-alpha.3",
   "description": "A shareable config for Nulogy frontend apps",
   "repository": "https://github.com/nulogy/eslint-config-nulogy.git",
   "main": "index.js",
@@ -9,13 +9,17 @@
   },
   "author": "engineering@nulogy.com",
   "license": "ISC",
-  "files": ["index.js"],
+  "files": [
+    "index.js"
+  ],
   "dependencies": {
     "@typescript-eslint/eslint-plugin": "^3.4.0",
     "@typescript-eslint/parser": "^3.4.0",
     "babel-eslint": "^10.1.0",
     "eslint-config-prettier": "^6.11.0",
+    "eslint-import-resolver-node": "^0.3.4",
     "eslint-plugin-eslint-comments": "^3.2.0",
+    "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-json": "^2.1.1",
     "eslint-plugin-jsx-a11y": "^6.3.1",
     "eslint-plugin-prettier": "^3.1.4",
