@@ -25,7 +25,9 @@ module.exports = {
       jsx: true,
     },
   },
+  plugins: ["import"],
   rules: {
+    "import/order": "error",
     "no-mixed-operators": ["error", { allowSamePrecedence: true }],
     "no-unused-vars": [
       "error",
