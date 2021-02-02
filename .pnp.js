@@ -50,6 +50,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:7.0.10"
       ],
       [
+        "@semantic-release/release-notes-generator",
+        "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:9.0.1"
+      ],
+      [
         "@typescript-eslint/eslint-plugin",
         "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:3.4.0"
       ],
@@ -126,6 +130,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:9.0.0"],
             ["@semantic-release/github", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:7.2.0"],
             ["@semantic-release/npm", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:7.0.10"],
+            ["@semantic-release/release-notes-generator", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:9.0.1"],
             ["@typescript-eslint/eslint-plugin", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:3.4.0"],
             ["@typescript-eslint/parser", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:3.4.0"],
             ["babel-eslint", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:10.1.0"],
@@ -347,6 +352,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@semantic-release/git", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:9.0.0"],
             ["@semantic-release/github", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:7.2.0"],
             ["@semantic-release/npm", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:7.0.10"],
+            ["@semantic-release/release-notes-generator", "virtual:9218b8dd748cd0290c533bbac6d472107e1ca9e46d03b7a33d04d05340ad546fcc2b47de0e6975b6a61881ac59f892fd11dd3dfff9ab866a21e35d657c9221e4#npm:9.0.1"],
             ["@typescript-eslint/eslint-plugin", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:3.4.0"],
             ["@typescript-eslint/parser", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:3.4.0"],
             ["babel-eslint", "virtual:3318f90b5c27d430abfb469efbaa6fc06535310debb9228f43f11fc18577e98d7ae59694265dff7e8df7ed2d879281cdf356b35c311b4f06256c2f16da5b2112#npm:10.1.0"],
