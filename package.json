@@ -1,6 +1,6 @@
 {
   "name": "@nulogy/eslint-config-nulogy",
-  "version": "0.0.1-alpha.3",
+  "version": "0.0.0-development",
   "description": "A shareable config for Nulogy frontend apps",
   "repository": "https://github.com/nulogy/eslint-config-nulogy.git",
   "main": "index.js",
@@ -33,8 +33,14 @@
     "typescript": ">=3.0.0"
   },
   "devDependencies": {
+    "@semantic-release/changelog": "^5.0.1",
+    "@semantic-release/commit-analyzer": "^8.0.1",
+    "@semantic-release/git": "^9.0.0",
+    "@semantic-release/github": "^7.2.0",
+    "@semantic-release/npm": "^7.0.10",
     "eslint": "^6.6.0",
     "prettier": "^2.0.5",
+    "semantic-release": "^17.3.7",
     "typescript": "^3.8.3"
   }
 }
