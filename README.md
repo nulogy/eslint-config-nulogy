@@ -30,12 +30,6 @@ module.exports = {
 
 You may also want to add a `.prettierignore` file, especially to filter out `__generated__` files from Apollo Codegen.
 
-## Changelog
-
-### 0.0.1-alpha.1
-
--   Initial alpha release
-
 ## TODOs
 
 - Extract [rules](./rules.js) that have been customized
