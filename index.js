@@ -35,6 +35,7 @@ module.exports = {
     ],
     "prefer-template": "error",
     "prettier/prettier": "error",
+    "react/display-name": "off",
     "react-hooks/exhaustive-deps": "warn",
     "react-hooks/rules-of-hooks": "error",
     "react/jsx-curly-brace-presence": [
